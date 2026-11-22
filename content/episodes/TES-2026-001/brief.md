@@ -2,10 +2,15 @@
 
 ## Status
 
-- Editorial status: research candidate / brief only.
-- Production status: not started.
+- Editorial status: active pre-production.
+- Research status: reviewed; seven-stage brief, 18 Claim IDs and 22-entry source register documented.
+- Narration v1: reviewed by Argon 4; verdict was APPROVED WITH MINOR CORRECTIONS.
+- Narration v2: mandatory corrections applied; fresh technical re-audit pending.
+- Storyboard v1: provisional; scene timings require validation against the actual voiceover.
+- Animation/pilot status: not started.
+- Full production/render status: not started.
 - Publishing status: not scheduled.
-- Priority: pilot candidate; opportunity score is provisional.
+- Priority: first production pilot; opportunity score remains provisional.
 
 ## Working title
 
@@ -18,7 +23,7 @@
 - Format: faceless, narration-led, visual-first explainer.
 - Audience: AI beginners, students and aspiring AI/ML engineers.
 - Language: English.
-- Initial target: approximately 45–60 seconds, subject to script accuracy and pacing.
+- Locked planning target: 60 seconds; final runtime must be measured against the selected voiceover and visual holds.
 
 ## Audience question
 
@@ -71,6 +76,16 @@ Do not use the hook “AI doesn't read words the way you do” unless the script
 ## Provisional opportunity score
 
 Exploratory score: **83/100**, not a validated market score. Demand and relevance were provisionally high; the supply-gap score was deliberately conservative because established explanations already exist. Reassess against the canonical Creator-OS opportunity rubric and record evidence before moving to `validated`.
+
+## Current production state
+
+- Research dossier: complete and reviewed.
+- Narration v1: reviewed with minor mandatory corrections.
+- Narration v2: revised draft, pending fresh technical review.
+- Storyboard v1: provisional scene plan.
+- Current next gate: obtain an independent Argon 4 review of narration v2 before locking the script.
+
+See the [production journey log](production-log.md), [revised research dossier](research/dossier-revised-clean.html), [narration v1](scripts/narration-v1.md), [narration v2](scripts/narration-v2.md), and [storyboard v1](storyboard/storyboard-v1.md).
 
 ## Required production outputs
 
