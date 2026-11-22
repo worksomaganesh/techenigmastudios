@@ -70,9 +70,17 @@ This repository owns the **TECHENIGMASTUDIOS-specific brand strategy, curriculum
 
 **Reuse the shared system; preserve this brand's unique identity.**
 
-## First planned episode
+## First episode in production
 
-[Episode 001 — What Actually Happens When You Press Send?](content/episodes/TES-2026-001/brief.md) is our first research candidate: a visual explanation of the journey of a prompt through a typical text-generating LLM. The brief is recorded; scripting, storyboard, production and rendering have not started.
+[Episode 001 — What Actually Happens When You Press Send?](content/episodes/TES-2026-001/brief.md) is our first production candidate: a visual explanation of the journey of a prompt through a typical text-generating LLM. Research has been documented, narration v1 has received an external technical review, narration v2 is pending re-review, and storyboard v1 is provisional. Animation and rendering have not started.
+
+The complete working history—including research, prompts, review outputs, script versions, storyboard decisions and production logs—is preserved in the [Episode 001 production log](content/episodes/TES-2026-001/production-log.md).
+
+## Production documentation
+
+Every episode keeps a versioned production journal: source-backed research, prompts, model outputs, review findings, script/storyboard versions, decisions, assets, render logs and QA evidence. Earlier versions are retained and approval is tied to the exact reviewed version.
+
+See the [Episode Production Journal Standard](docs/production-journal-standard.md).
 
 ## Current direction
 
