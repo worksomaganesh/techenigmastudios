@@ -50,7 +50,7 @@ We simplify explanations without distorting technical truth. Complex subjects ma
 - **Visual direction:** high-contrast, precise, modern, educational, and purposeful.
 - **Personality:** curious, technically grounded, clear, and practical.
 
-See [the brand guide](brand/brand-guide.md).
+See [the brand guide](brand/brand-guide.md) and [video engine architecture](video-engine/README.md).
 
 ## Editorial standard
 
@@ -69,6 +69,10 @@ This repository owns the **TECHENIGMASTUDIOS-specific brand strategy, curriculum
 [Creator-OS](https://github.com/worksomaganesh/Creator-OS) is the shared operating system for TECHENIGMASTUDIOS, AI That Works, and ContextAhead. It owns reusable research methods, opportunity evaluation, brand routing, editorial templates, agent skills, shared schemas, production workflow, quality gates, and analytics practices.
 
 **Reuse the shared system; preserve this brand's unique identity.**
+
+## First planned episode
+
+[Episode 001 — What Actually Happens When You Press Send?](content/episodes/TES-2026-001/brief.md) is our first research candidate: a visual explanation of the journey of a prompt through a typical text-generating LLM. The brief is recorded; scripting, storyboard, production and rendering have not started.
 
 ## Current direction
 
