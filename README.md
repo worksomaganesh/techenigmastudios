@@ -93,3 +93,9 @@ See the [Episode Production Journal Standard](docs/production-journal-standard.m
 ---
 
 **The standard:** Every TECHENIGMASTUDIOS lesson should leave the viewer understanding something more clearly than before.
+
+
+## Research references and handoff
+
+- [Complete 22-repository landscape](references/repository-landscape.md) — full historical list, brand-specific decisions and reuse cautions.
+- [Project handoff](HANDOFF.md) — current stack, Episode 001 status, immediate next actions and production-journal rules.
